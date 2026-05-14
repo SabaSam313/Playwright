@@ -39,7 +39,10 @@ LearnPlaywright
     |-- 14_var_functionscope.js
     |-- 15_let_scope.js
     |-- 16_Hoisting.js
-    `-- 17_hoisting_fn.js
+    |-- 17_hoisting_fn.js
+    |-- 18_let_hoisting.js
+    |-- 19_let_hoisting_block.js
+    `-- 20_let_const.js
 ```
 
 ## Chapter 4: JavaScript Concepts
@@ -57,6 +60,9 @@ This chapter covers functions and JavaScript variable declarations using `var`, 
 | `15_let_scope.js` | Global, function, and block scope behavior of `let` |
 | `16_Hoisting.js` | Hoisting behavior of `var` |
 | `17_hoisting_fn.js` | Function-level hoisting behavior of `var` |
+| `18_let_hoisting.js` | TDZ and hoisting behavior of `let` |
+| `19_let_hoisting_block.js` | Block TDZ behavior of `let` |
+| `20_let_const.js` | TDZ behavior of `const` |
 
 ## Types Of Literal
 
